@@ -1,2 +1,2 @@
-FROM prashanthtrade/dev/
+FROM prashanthntrade/dev
 ADD ./dev /var/www/html/dev
